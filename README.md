@@ -2,5 +2,5 @@
 
 This is a [Banana link](https://snt-code.github.io/code/python/test.html)
 
-$ \frac{1}{2} $
+<img src="https://render.githubusercontent.com/render/math?math=\frac{1}{2}1">
 
